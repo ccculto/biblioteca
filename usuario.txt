@@ -1,0 +1,3 @@
+nombre=Paola Padron
+email=paolapapa237@gmail.com
+contrasena=123456789*
