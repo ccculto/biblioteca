@@ -1,0 +1,3 @@
+titulo=Ciudad de hueso
+autor=Cassandra Clare
+isbn=9781406307627
